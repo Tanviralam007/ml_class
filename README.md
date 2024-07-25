@@ -1,19 +1,12 @@
 # Image Feature Extraction Project
-=====================================
-
-## Group Members
-----------------
-
+## Group Members:
 * 22-46534-1: **Tanvir Alam Tanim**
 * 22-46698-1: **Shahriar Abir Hasan Khan**
 
 ## Introduction
----------------
-
 This project explores various feature extraction techniques for images. The goal is to extract meaningful information from images that can be used for further analysis or machine learning tasks.
 
 ## Feature Extraction Techniques
--------------------------------
 
 ### 1. Pixel Intensity Values
 
@@ -37,6 +30,5 @@ These techniques detect edges within the image, highlighting areas with signific
 This technique is not used for final analysis in this specific example but demonstrates a potential approach for more complex feature extraction. VGG16 is trained on a massive image dataset and can capture high-level features related to objects, textures, and colors in the image. For testing purposes, only one has been used.
 
 ## Conclusion
-----------
 
 This project demonstrates various feature extraction techniques for images. These techniques can be used as a starting point for further analysis or machine learning tasks.
